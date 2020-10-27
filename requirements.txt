@@ -1,2 +1,2 @@
 berserk==0.10.0
-python-chess==1.2.0
+python-chess==1.999
